@@ -3,14 +3,24 @@
     font-size: 16px;
 }
 
-body {
-    background-color: salmon;
+header {
+    background-color: seashell;
 
 }
 
+
 body {
-    background-color: snow;
+    background-color:rgba(209, 214, 214, 0.747);
     width: 500px;
     margin: auto;
+    padding: 25px;
     box-shadow: 3px 3px 5px teal;
+}
+
+img.lado_right {
+    float: right;
+}
+
+img.lado_left {
+    float: left;
 }
